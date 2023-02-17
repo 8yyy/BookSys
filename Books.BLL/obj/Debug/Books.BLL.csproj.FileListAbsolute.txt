@@ -1,0 +1,13 @@
+H:\DotNet\WinForm\BookSys\BookSys\Books.BLL\bin\Debug\Books.BLL.dll
+H:\DotNet\WinForm\BookSys\BookSys\Books.BLL\bin\Debug\Books.BLL.pdb
+H:\DotNet\WinForm\BookSys\BookSys\Books.BLL\bin\Debug\Books.DAL.dll
+H:\DotNet\WinForm\BookSys\BookSys\Books.BLL\bin\Debug\MySql.Data.dll
+H:\DotNet\WinForm\BookSys\BookSys\Books.BLL\bin\Debug\Books.DAL.pdb
+H:\DotNet\WinForm\BookSys\BookSys\Books.BLL\bin\Debug\MySql.Data.xml
+H:\DotNet\WinForm\BookSys\BookSys\Books.BLL\obj\Debug\Books.BLL.csproj.AssemblyReference.cache
+H:\DotNet\WinForm\BookSys\BookSys\Books.BLL\obj\Debug\Books.BLL.csproj.CoreCompileInputs.cache
+H:\DotNet\WinForm\BookSys\BookSys\Books.BLL\obj\Debug\Books.BLL.csproj.CopyComplete
+H:\DotNet\WinForm\BookSys\BookSys\Books.BLL\obj\Debug\Books.BLL.dll
+H:\DotNet\WinForm\BookSys\BookSys\Books.BLL\obj\Debug\Books.BLL.pdb
+H:\DotNet\WinForm\BookSys\BookSys\Books.BLL\bin\Debug\Books.Model.dll
+H:\DotNet\WinForm\BookSys\BookSys\Books.BLL\bin\Debug\Books.Model.pdb

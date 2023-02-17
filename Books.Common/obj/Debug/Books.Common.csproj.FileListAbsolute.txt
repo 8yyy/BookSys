@@ -1,0 +1,6 @@
+H:\DotNet\WinForm\BookSys\BookSys\Books.Common\bin\Debug\Books.Common.dll
+H:\DotNet\WinForm\BookSys\BookSys\Books.Common\bin\Debug\Books.Common.pdb
+H:\DotNet\WinForm\BookSys\BookSys\Books.Common\obj\Debug\Books.Common.csproj.AssemblyReference.cache
+H:\DotNet\WinForm\BookSys\BookSys\Books.Common\obj\Debug\Books.Common.csproj.CoreCompileInputs.cache
+H:\DotNet\WinForm\BookSys\BookSys\Books.Common\obj\Debug\Books.Common.dll
+H:\DotNet\WinForm\BookSys\BookSys\Books.Common\obj\Debug\Books.Common.pdb

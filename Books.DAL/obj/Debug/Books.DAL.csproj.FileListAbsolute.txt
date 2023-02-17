@@ -1,0 +1,11 @@
+H:\DotNet\WinForm\BookSys\BookSys\Books.DAL\obj\Debug\Books.DAL.csproj.AssemblyReference.cache
+H:\DotNet\WinForm\BookSys\BookSys\Books.DAL\obj\Debug\Books.DAL.csproj.CoreCompileInputs.cache
+H:\DotNet\WinForm\BookSys\BookSys\Books.DAL\bin\Debug\Books.DAL.dll
+H:\DotNet\WinForm\BookSys\BookSys\Books.DAL\bin\Debug\Books.DAL.pdb
+H:\DotNet\WinForm\BookSys\BookSys\Books.DAL\bin\Debug\MySql.Data.dll
+H:\DotNet\WinForm\BookSys\BookSys\Books.DAL\bin\Debug\MySql.Data.xml
+H:\DotNet\WinForm\BookSys\BookSys\Books.DAL\obj\Debug\Books.DAL.csproj.CopyComplete
+H:\DotNet\WinForm\BookSys\BookSys\Books.DAL\obj\Debug\Books.DAL.dll
+H:\DotNet\WinForm\BookSys\BookSys\Books.DAL\obj\Debug\Books.DAL.pdb
+H:\DotNet\WinForm\BookSys\BookSys\Books.DAL\bin\Debug\Books.Model.dll
+H:\DotNet\WinForm\BookSys\BookSys\Books.DAL\bin\Debug\Books.Model.pdb
